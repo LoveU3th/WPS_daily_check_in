@@ -1,6 +1,8 @@
 name: 'WPS daily check in'
 
 on:
+
+  workflow_dispatch: # 手动触发
   #push:
    # branches: 
     #  - main
