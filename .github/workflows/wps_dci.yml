@@ -6,8 +6,8 @@ on:
   #push:
    # branches: 
     #  - main
-  schedule:
-    - cron: '55 0 * * *'
+  #schedule:
+   # - cron: '55 0 * * *'
 
 jobs:
   daily_check_in:
